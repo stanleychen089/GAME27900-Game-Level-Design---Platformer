@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LDP/content/Scenes/Main.unity
     guid: 04df639421d16fd44beae7ee2b6275c2
-  - enabled: 1
+  - enabled: 0
     path: Assets/LDP/content/Scenes/Template Level.unity
     guid: 4f9986ffb4fa0e24e9713688c0def2bb
+  - enabled: 1
+    path: Assets/LDP/content/Scenes/Stanley_01.unity
+    guid: d6c61adb4466ce74fbcf3f2ff3359a13
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3b7a3995f6b70124d97615871329bb38,
       type: 2}
